@@ -1,0 +1,55 @@
+*{
+    background-image: url("https://wallpaperaccess.com/full/2314983.jpg");
+}
+.nav{
+    position: absolute;
+    left: 12%;
+}
+.nav>.nav-link{
+    color: white;
+}
+.fluid-container{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    padding: 5%;
+    box-shadow: 0px 0px 40px 2px;
+    color: lightblue;
+}
+.information{
+    color: lightblue;
+}
+.information>.submit{
+    margin: 5% 25%;
+    
+}
+.img1{
+    width: 450px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    box-shadow: 0px 0px 40px 2px;
+    color: lightblue;
+    padding: 0.5%;
+}
+.mt-1{
+    color: white;
+}
+.output{
+    color: white;
+    position: relative;
+    left: 25px;
+}
+#full-container{
+    width: 35%;
+    margin: 1%;
+    color: wheat;
+}
+#info{
+    position: relative;
+    left: 500px;
+
+}
+.icons{
+    position: relative;
+}
